@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.0.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.0.2 - load a loop and it auto-frames the first 2 bars and loops on the beat; the step sequencer locks to the loop; zoom sets the loop; and the loop-seam click is gone."
+  "notes": "Eclipse Loop 1.0.3 - Bounce Song now exports MP3 and AAC (.m4a) in addition to WAV/AIFF/FLAC. Plus 1.0.2: load auto-frames the first 2 bars and loops on the beat, the sequencer locks to the loop, and the loop-seam click is gone."
 }
