@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.0.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.0.1 - smoother sequencer: scrolling/zooming the loop no longer moves the SEQ, the division dropdown selects on the first click, new sessions start on 2 bars, and idle CPU is roughly halved."
+  "notes": "Eclipse Loop 1.0.2 - load a loop and it auto-frames the first 2 bars and loops on the beat; the step sequencer locks to the loop; zoom sets the loop; and the loop-seam click is gone."
 }
