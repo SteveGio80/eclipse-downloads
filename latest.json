@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.0.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.0.4 - multitrack Dump Audio/MIDI in the arranger, stem export, quantize strength, drum-MIDI export, MP3/AAC bounce, and the loop-first + click-free improvements. Fixes SEQ tempo on loop removal."
+  "version": "1.0.5",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.0.5/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 1.0.5 - 6-stem splitting (adds Guitar and Piano; right-click SPLIT STEMS to pick 4 or 6, both AI models bundled), mixer VU meters and dB readouts on every strip, spacebar transport in the mixer, a WIDTH stereo widener, and selection-based waveform editing (delete/duplicate/reverse/gain). TIME SHIFT effects now apply to the loop you're actually playing instead of the whole file. Fixes: bar-count changes knocking patterns off the beat, loop auto-framing on load, DRAG MIDI, sample-editor playhead and LOOP, and static when loading a 44.1 kHz loop into a 48 kHz session."
 }
