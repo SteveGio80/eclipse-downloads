@@ -1,5 +1,5 @@
 {
-  "version": "1.5.7",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.5.7/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.5.7 Mixer / Arranger - Mute and Solo on the arranger mixer are now realtime \u2014 toggling M/S during playback takes effect instantly instead of only after stop/play. - Floating Mixer and Arranger windows now have a DOCK button, so you can dock them to the bottom without closing and re-opening. (The dock's FLOAT button still pops them back out.) Stability - Fixed static when loading an effect with a sidechain or aux input (e.g. a compressor) onto an arranger track \u2014 those plugins were being fed a too-small buffer and reading past the end. Insert buffers are now sized safely."
+  "version": "1.5.8",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.5.8/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 1.5.8 Mixer / Arranger \u2014 gain & mute/solo correctness - Fixed arranger track gain being applied twice, so faders no longer over- or under-shoot their set level \u2014 there's now a single track gain stage. - Mute and Solo now act as one gate that reaches both the arranger and step-sequencer engines, so a muted/soloed track behaves consistently everywhere. - Freeze now captures the track's audio content, not the fader position \u2014 freezing a track no longer bakes in a doubled gain."
 }
