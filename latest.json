@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.5.9/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.5.9 Eclipse Verb \u2014 reverb restored - Fixed the bundled Eclipse Verb: the wet signal was running roughly 15 dB too quiet, so the plugin sounded like it had almost no reverb and the tail vanished in a fraction of a second. The wet path is now level-matched, so the reverb is full and present, with a proper tail \u2014 and the space and early reflections come through."
+  "version": "1.6.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.6.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 1.6.0 Eclipse Tape - The TIME knob now turns freely out of the box \u2014 Sync to Tempo defaults to off, so you can dial the delay time by ear immediately. Switch Sync on any time to lock the delay to your project tempo (the DIV control then drives the timing)."
 }
