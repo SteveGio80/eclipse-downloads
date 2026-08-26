@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.6.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.6.0 Eclipse Tape - The TIME knob now turns freely out of the box \u2014 Sync to Tempo defaults to off, so you can dial the delay time by ear immediately. Switch Sync on any time to lock the delay to your project tempo (the DIV control then drives the timing)."
+  "version": "1.6.1",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.6.1/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 1.6.1 Fixed: metallic noise on arranger track plugin inserts. Loading any plugin insert on an arranger track and hitting PLAY SONG could produce a metallic fizz/static. The track-1 insert chain was being processed twice per audio block (once by the arranger, once by the main-loop path), which modulated the plugin's output at the audio block rate. The two paths are now mutually exclusive, so inserts run once per block and sound clean. Bounced/exported songs were never affected. Also hardened the transport reported to hosted plugins so transport/tempo-aware inserts see a consistent play state. --- Note: after installing, macOS may reset the ON AIR screen-recording permission (it is pinned to each build). If ON AIR recording is silent, toggle Eclipse Loop OFF then ON in System Settings \u25b8 Privacy & Security \u25b8 Screen & System Audio Recording, then quit and reopen the app."
 }
