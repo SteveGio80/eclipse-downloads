@@ -1,5 +1,5 @@
 {
-  "version": "1.6.4",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.6.4/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 1.6.4 UI: the little corner wedge that marks a button with a left-click menu (CHOP, STUTTER, REV, HALF, 2X, etc.) is now clearly visible at rest instead of only on hover, so those menus are discoverable at a glance."
+  "version": "1.6.5",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v1.6.5/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 1.6.5 - Warp follows the tempo line inside a clip \u2014 warped loops re-tile at each tempo segment instead of smearing one pass across the whole clip. - Tempo edits apply mid-song, and MIDI dumps honor their bar count. - AI leads respect a per-style note budget (tighter, more musical phrases). - Follow Actions now survive a save (they were silently lost before). - Stability pass: latent races fixed, the render path swept for allocations, and a deep audit run clean under ASan/UBSan."
 }
