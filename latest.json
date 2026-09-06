@@ -1,5 +1,5 @@
 {
   "version": "2.1.1",
   "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.1/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.1.1 A trial-enforcement fix. If you have bought Eclipse Loop, nothing here changes anything for you \u2014 every one of these paths already worked and still works. Update anyway: it is the same build everyone else will be on. What was wrong The 14-day trial locks Save, Export, Bounce, drag-out, stem separation and slice export. Seven of those paths checked your licence. Five did not, and the app would happily hand a finished loop or a full set of song stems to an expired trial: - The DRAG WAV chip. Drag your loop out as a WAV, no licence needed. The DRAG MIDI chip immediately beside it was checked \u2014 which is exactly why nobody noticed. The pair looked symmetrical. - File \u25b8 Export All, File \u25b8 Export Song Stems, and File \u25b8 Export Selection as WAV ran straight through. The menu's other export items were checked, so the menu looked done."
+  "notes": "Eclipse Loop 2.1.1  -  recommended update for everyone. Activation is a licence file now: no Machine ID, no round trip, and it works on every Mac you own. Your bundle: Loop + Prism, Alloy, Dusk & Vibe + 28 FX, all audited for aliasing in 2.0.0. 14-day free trial, then Export and Save unlock with your licence."
 }
