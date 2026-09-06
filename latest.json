@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.1/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.1.1  -  recommended update for everyone. Activation is a licence file now: no Machine ID, no round trip, and it works on every Mac you own. Your bundle: Loop + Prism, Alloy, Dusk & Vibe + 28 FX, all audited for aliasing in 2.0.0. 14-day free trial, then Export and Save unlock with your licence."
+  "version": "2.1.2",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.2/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.1.2 - small fixes on top of 2.1.1. Dropping a file onto the waveform is now undoable, so a drop on top of the loop you are working on can be taken back with Cmd-Z. Activation is a licence file: no Machine ID, no round trip, works on every Mac you own. Your bundle: Loop + Prism, Alloy, Dusk & Vibe + 28 FX."
 }
