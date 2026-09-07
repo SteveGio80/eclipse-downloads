@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.4/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.1.4 - the interface now scales to your display, so it is the same size on any Mac. New UI SCALE control (Auto, or a fixed 70-125%) next to the theme and size selectors, remembered per machine. Bigger, more readable What's New ticker. Track height buttons in the arranger."
+  "version": "2.1.5",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.5/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.1.5 - Auto UI scale now measures your display's physical density rather than its resolution, which is what actually decides how big Loop looks. The same 13-inch screen on its default setting draws every button 17% larger than on \"More Space\"; Auto now corrects for that, so Loop is the same physical size on any Mac. Recommended for everyone on 2.1.4."
 }
