@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.1.2 - small fixes on top of 2.1.1. Dropping a file onto the waveform is now undoable, so a drop on top of the loop you are working on can be taken back with Cmd-Z. Activation is a licence file: no Machine ID, no round trip, works on every Mac you own. Your bundle: Loop + Prism, Alloy, Dusk & Vibe + 28 FX."
+  "version": "2.1.3",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.3/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.1.3 - Bounce Song now renders your whole mix: MIDI clips through your VST instruments, insert plugins, sends and bus effects, and every automation curve. Before this, a bounce printed only audio clips. Plus project templates, audio quantize and groove templates."
 }
