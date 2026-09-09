@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.5/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.1.5 - Auto UI scale now measures your display's physical density rather than its resolution, which is what actually decides how big Loop looks. The same 13-inch screen on its default setting draws every button 17% larger than on \"More Space\"; Auto now corrects for that, so Loop is the same physical size on any Mac. Recommended for everyone on 2.1.4."
+  "version": "2.1.6",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.1.6/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.1.6 - pads no longer show waveforms for slots that are empty, opening a project no longer comes up with blank pads, and every level meter now reads the same: three of the four were scaled by raw amplitude instead of decibels. Double-click a slice to hear it, and the arranger's SENDS button and instrument slot are reachable at last."
 }
