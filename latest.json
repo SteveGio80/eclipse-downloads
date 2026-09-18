@@ -1,5 +1,5 @@
 {
-  "version": "2.5.5",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.5/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.5.5 - the melody generator got a lot more to say, and the piano roll can play a note back to you. Every genre now has at least fourteen hand-written phrases instead of three, and it will not hand you the same idea twice in a row. Plus a batch of fixes to saving, session recovery, and plugin inserts that were never processing on some tracks."
+  "version": "2.5.6",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.6/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.5.6 - a day of fixes found by using the app. MIDI tracks voiced by a plugin synth arrived LATE, because delay compensation counted your effects and never the instrument. STOP left the notes ringing. Dumping a lead to the arranger produced the wrong notes, four different ways. Closing a plugin window after loading a project could crash. A hung audio device could make Loop unlaunchable. The Arrange window burned 41% CPU sitting idle. And the playhead now rolls until you press STOP, like every other DAW."
 }
