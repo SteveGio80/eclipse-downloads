@@ -1,5 +1,5 @@
 {
-  "version": "2.5.4",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.4/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.5.4 - recommended for everyone, and if you make trap it matters. Trap was repeating the same chord three bars out of four; its scale could not spell the chords it was asked for. K-pop has its own chord rhythms now, SWING and DENS read correctly, and the piano roll gains Smart quantize - per note, straight grid or triplet, whichever it is nearer."
+  "version": "2.5.5",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.5/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.5.5 - the melody generator got a lot more to say, and the piano roll can play a note back to you. Every genre now has at least fourteen hand-written phrases instead of three, and it will not hand you the same idea twice in a row. Plus a batch of fixes to saving, session recovery, and plugin inserts that were never processing on some tracks."
 }
