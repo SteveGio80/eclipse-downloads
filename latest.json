@@ -1,5 +1,5 @@
 {
-  "version": "2.5.7",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.7/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.5.7 - one fix, and it is the one that mattered. Loop could hang on launch with no window at all: nothing to click, nothing in the Dock to answer, Force Quit the only way out. The cause was microphone permission - Loop asked macOS for the mic before it had a window, so the permission check had nowhere to appear and everything stopped behind it. Loop now opens sound output first, puts its window on screen, and only then asks about the microphone."
+  "version": "2.5.8",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.8/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.5.8 - recording prints again. An arranger take was being captured correctly and then thrown away when you pressed stop, so you could hear yourself while armed and no clip ever appeared. This release also withdraws 2.5.7's microphone change, which could leave Loop with no audio input at all until you restarted it. If you updated to 2.5.7 and lost your input, this is the fix."
 }
