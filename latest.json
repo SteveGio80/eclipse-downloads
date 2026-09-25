@@ -1,5 +1,5 @@
 {
-  "version": "2.5.10",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.10/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.5.10 - recommended update. New in this build: - Eclipse Tune, the live pitch corrector, now has NOTE EDIT - a Melodyne-style editor. Click NOTE EDIT to capture the last few seconds, see your sung notes as blobs, and drag one up or down to retune it - you hear the change instantly. - New Session (Cmd-N) opens a chooser with factory templates and your saved ones. - An INSTRUMENT slot on every mixer strip - the sound source sits above the FX rack. - Demo Session on the start screen: open something already made and start playing. - Plugin pickers are now a by-category tree with type-to-search, Eclipse pinned first. - Mid-play MIDI clips render live now instead of refusing while the arranger plays. - The PITCH rack was rebuilt (YIN detection + key/scale snapping). Stability: - Fixed a crash when opening a hosted plugin's editor from the mixer. - Fixed a crash report every time the app quit, caused by some third-party plugins tearing down at exit. Note: after installing, macOS may ask for Screen Recording permission again for ON AIR - click the camera and Allow when prompted."
+  "version": "2.5.11",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.11/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.5.11 - recommended update for everyone. Fixes crashes with hosted plugins, drums drifting off a zoomed loop, and clicks/crackle when effects were used; adds four send rows per bus and a louder Maximizer and Limiter."
 }
