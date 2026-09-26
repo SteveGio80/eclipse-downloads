@@ -1,5 +1,5 @@
 {
-  "version": "2.5.11",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.5.11/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.5.11 - recommended update for everyone. Fixes crashes with hosted plugins, drums drifting off a zoomed loop, and clicks/crackle when effects were used; adds four send rows per bus and a louder Maximizer and Limiter."
+  "version": "2.6.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.6.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.6.0 - a Logic-style step sequencer, genre-true leads with five new genres, saving that never freezes the app, and over a hundred fixes. Recommended for everyone."
 }
