@@ -1,5 +1,5 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.7.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.7.0 - plug-ins run in their own process (a crashing plug-in can't take your session down, and heavy synths use every core), six new TIME SHIFT moves that turn a loop into a part, true stereo meters and master pans, a scrolling STEP view, and an Omnisphere crash fixed. Recommended for everyone."
+  "version": "2.7.1",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.7.1/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.7.1 - a new bundled plug-in, Eclipse De-Esser: tame harsh \"s\" sounds on any vocal with a live spectrum you can see and drag. Now 34 plug-ins included."
 }
