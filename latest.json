@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.6.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.6.0 - a Logic-style step sequencer, genre-true leads with five new genres, saving that never freezes the app, and over a hundred fixes. Recommended for everyone."
+  "version": "2.7.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.7.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.7.0 - plug-ins run in their own process (a crashing plug-in can't take your session down, and heavy synths use every core), six new TIME SHIFT moves that turn a loop into a part, true stereo meters and master pans, a scrolling STEP view, and an Omnisphere crash fixed. Recommended for everyone."
 }
