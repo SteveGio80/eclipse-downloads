@@ -1,5 +1,5 @@
 {
-  "version": "2.7.8",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.7.8/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.7.8 - a MANUAL / HELP button in Prism, Alloy, Dusk and Vibe that opens each synth's own manual and quickstart, and Alloy's filter menu shows the neutral filter names on its own screen."
+  "version": "2.7.9",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.7.9/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.7.9 - fixes from a full audit: audio engine, recording/save safety, plug-in hosting, UI, generators, licence/trial; Alloy controls wired + MSEG/Function editors; Dusk user presets."
 }
