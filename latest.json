@@ -1,5 +1,5 @@
 {
-  "version": "2.8.3",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.3/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.8.3 - Dump Audio, DRAG WAV and MIDI export now play exactly what the SEQ plays, the SEQ and arranger MIDI follow the time signature, and every step size keeps its own beat."
+  "version": "2.8.4",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.4/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.8.4 - the loop stays in time when you remove an instrument from track 1, and Dump Audio / Dump MIDI print exactly what you hear, at exactly the bars you pick."
 }
