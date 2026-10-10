@@ -1,5 +1,5 @@
 {
-  "version": "2.8.7",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.7/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.8.7 - the loop stays locked while playing, timing holds through every change, dumps match what you hear, and level knobs work in dB."
+  "version": "2.8.8",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.8/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.8.8 - notes drawn on sample tracks dump as real audio, MIDI means VST instruments only, and you can dump single tracks."
 }
