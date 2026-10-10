@@ -1,5 +1,5 @@
 {
-  "version": "2.8.5",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.5/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.8.5 - quantize only moves the notes you selected, and a key held when MIDI recording stops no longer becomes a note that lasts the whole song."
+  "version": "2.8.6",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.6/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.8.6 - the bass and other piano-roll parts stay locked to the drums when you quantize or edit notes while playing."
 }
