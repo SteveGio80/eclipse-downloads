@@ -1,5 +1,5 @@
 {
-  "version": "2.8.6",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.6/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.8.6 - the bass and other piano-roll parts stay locked to the drums when you quantize or edit notes while playing."
+  "version": "2.8.7",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.8.7/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.8.7 - the loop stays locked while playing, timing holds through every change, dumps match what you hear, and level knobs work in dB."
 }
