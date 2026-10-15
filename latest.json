@@ -1,5 +1,5 @@
 {
-  "version": "2.9.2",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.9.2 - RANDOM and DENS fill the STEP view with in-key notes (Shift = vary), and the STEP toolbar dropdowns show their values again."
+  "version": "2.9.3",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.3/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.9.3 - BARS sets the loop for everything and the length every generator writes, a DISLIKE button, select/move/copy/paste on the SEQ grid and STEP view, and a new musical lead writer."
 }
