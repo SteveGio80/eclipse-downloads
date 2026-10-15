@@ -1,5 +1,5 @@
 {
-  "version": "2.9.3",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.3/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.9.3 - BARS sets the loop for everything and the length every generator writes, a DISLIKE button, select/move/copy/paste on the SEQ grid and STEP view, and a new musical lead writer."
+  "version": "2.9.4",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.4/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.9.4 - GENERATE writes notes again in Major Pentatonic (trap/drill), a self-test that presses every generator 1,568 ways, and deep-audit fixes."
 }
