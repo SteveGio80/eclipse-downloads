@@ -1,5 +1,5 @@
 {
-  "version": "2.9.4",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.4/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.9.4 - GENERATE writes notes again in Major Pentatonic (trap/drill), a self-test that presses every generator 1,568 ways, and deep-audit fixes."
+  "version": "2.9.5",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.5/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.9.5 - a per-track mixing console (WARM / PUNCH, DRIVE, SUMMING, TAPE), Eclipse Console joins the bundle (35 plug-ins), live playback matches Dump Audio to the sample, a Performance Monitor, five lead writers with HOOK tools, Strip Silence, bus stems, and crash and waveform fixes."
 }
