@@ -1,5 +1,5 @@
 {
-  "version": "2.9.8",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.8/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.9.8 - Eclipse Spectrum joins the bundle (36 plug-ins), STOP really stops plug-ins and the Sample Browser preview, a plug-in browser built for big libraries, multi-input interfaces record the input you pick, recordings land on the exact sample, and safer recovery after a crash or a frozen plug-in."
+  "version": "3.0.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.0.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 3.0 - the launch release: 36 bundled plug-ins including the new Eclipse Spectrum, STOP that really stops plug-ins and previews, a plug-in browser built for big libraries, multi-input recording, sample-exact takes, and crash-safe saves, takes and backups."
 }
