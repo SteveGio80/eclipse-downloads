@@ -1,5 +1,5 @@
 {
-  "version": "2.9.6",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.6/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 2.9.6 - fader automation modes (OFF / READ / TOUCH / LATCH / TRIM), input monitoring with live FX and PRINT, per-track TAPE with reels, hardware monitoring, a LOOP GEN button, genre recipes, cleaner (alias-free) arranger playback, and far less CPU while stopped or playing."
+  "version": "2.9.7",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v2.9.7/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 2.9.7 - fixes master SUMMING not switching on in a wide mixer, and adds File Import Audio / Import MIDI."
 }
