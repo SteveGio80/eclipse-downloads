@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.0.1/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 3.0.1 - a damaged project file no longer crashes File Open; anything missing from a project is now named when it opens."
+  "version": "3.0.2",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.0.2/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 3.0.2 - group mixer strips, mixer colours that follow the theme, Save a Copy As, Project Settings (sample rate + project details), a CORES view in the Performance Monitor and a master clip warning."
 }
