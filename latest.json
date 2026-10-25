@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.0.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 3.0.2 - group mixer strips, mixer colours that follow the theme, Save a Copy As, Project Settings (sample rate + project details), a CORES view in the Performance Monitor and a master clip warning."
+  "version": "3.2.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.2.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 3.2 - 80 bundled plug-ins (44 new since 3.0, including Freeze, Match, Stems and Transcribe), 33 redesigned with BYPASS, A/B and new themes, a MIDI FX slot on every track, instruments you can play from the screen and automatic slot placement."
 }
