@@ -1,5 +1,5 @@
 {
-  "version": "3.8.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.8.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 3.8.0 - a new Start Window (continue in one key, twelve templates as cards, tempo before you start, drop a loop or a film to begin), a sound on every track (1,000+ sounds from Loop's own instruments, picked in one click; new instrument tracks start with a sound), and Eclipse Vibe with 280 single drums, 30 new kits, four-layer stacking and Make your own drum."
+  "version": "3.8.1",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.8.1/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 3.8.1 - an S button on every SEQ row and arranger track opens the Sound Library; AI Bass, AI Chords and AI Beat give an empty row a sound that fits (an 808 or a bass by genre, electric-piano keys), and so do imported MIDI and notes you play; bigger, centred LVL and PAN knobs in the arranger."
 }
