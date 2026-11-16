@@ -1,5 +1,5 @@
 {
-  "version": "3.8.2",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.8.2/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 3.8.2 - the arranger's bus rows line up: A sits under M and the automation mode button under S, like every other row."
+  "version": "3.8.3",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v3.8.3/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 3.8.3 - GENERATE with LEAD lit has a new default writer, PRO: leads written to each genre's own rules from hand-written takes, shaped by the key, scale, tone, DENS, NOTES and BARS you pick."
 }
