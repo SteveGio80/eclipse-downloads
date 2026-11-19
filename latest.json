@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v4.0.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 4.0.0 - Song Mode: sections as cards and one press writes the arrangement. Hum a lead into the sampler view, match the shape of a song you like, and land the song on your video's cuts. Plus the IDEAS strip: eight cards a press for lead, chords, bass and drums."
+  "version": "4.1.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v4.1.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 4.1.0 - PITCH and STRETCH knobs that hold their value, FX knobs rebuilt on the plug-ins' engines, the sound you dial in now leaves with the loop, and a deeper pad: filter types, velocity, LFO, pitch envelope, chop while it plays, warp markers, auto-sampling."
 }
