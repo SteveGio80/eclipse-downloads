@@ -1,5 +1,5 @@
 {
-  "version": "4.1.0",
-  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v4.1.0/Eclipse-Loop-Demo.dmg",
-  "notes": "Eclipse Loop 4.1.0 - PITCH and STRETCH knobs that hold their value, FX knobs rebuilt on the plug-ins' engines, the sound you dial in now leaves with the loop, and a deeper pad: filter types, velocity, LFO, pitch envelope, chop while it plays, warp markers, auto-sampling."
+  "version": "4.2.0",
+  "url": "https://github.com/SteveGio80/eclipse-downloads/releases/download/demo-v4.2.0/Eclipse-Loop-Demo.dmg",
+  "notes": "Eclipse Loop 4.2.0 - the Video window in eight tabs (Media, Make, Edit, Effects, Colour, Sound, Perform, Export), the song as one lane with faders in the window, fifteen transitions with direction, soft edge, placement and ease, a fresh video with no song, and leads that write straight into the piano roll."
 }
